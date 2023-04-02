@@ -1,0 +1,227 @@
+{
+ "category": "Domains",
+ "charts": [],
+ "creation": "2022-04-11 16:04:51.242006",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 1,
+ "icon": "",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "Law",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Court",
+   "link_to": "",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "Tanzania",
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Court",
+   "link_to": "Court",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Court Proceeding",
+   "link_to": "Court Proceeding",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "Tanzania",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Legislation",
+   "link_to": "Legislation",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Judge",
+   "link_to": "Judge",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Matters",
+   "link_to": "",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "Tanzania",
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Case",
+   "link_to": "Case",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "Tanzania",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Court Proceeding",
+   "link_to": "Court Proceeding",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "Tanzania",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Case Category",
+   "link_to": "Category",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Company",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "Tanzania",
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Company Department",
+   "link_to": "Company Department",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "Tanzania",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Lawyer",
+   "link_to": "Lawyer",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "Tanzania",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Practice Area",
+   "link_to": "Practice Area",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Lawyer ",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "Tanzania",
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": " Law Certificate",
+   "link_to": "Law Certificate",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Law Degree",
+   "link_to": "Law Degree",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "Tanzania",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Law Institute",
+   "link_to": "Law Institute",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "Tanzania",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Law University",
+   "link_to": "Law University",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "Tanzania",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Law Certificate",
+   "link_to": "Law Certificate",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "Tanzania",
+   "type": "Link"
+  }
+ ],
+ "modified": "2022-05-12 00:08:05.056587",
+ "modified_by": "Administrator",
+ "module": "LAW",
+ "name": "Law",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "Lawyers",
+   "link_to": "Lawyer",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Cases",
+   "link_to": "Case",
+   "type": "DocType"
+  }
+ ]
+}
